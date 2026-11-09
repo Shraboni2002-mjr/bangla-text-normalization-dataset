@@ -1,0 +1,13 @@
+﻿Metric,Value,Count,Percentage,Notes
+Error_Type,Spelling,150,30.0,
+Error_Type,Repeated_Character,100,20.0,
+Error_Type,Punctuation,50,10.0,
+Error_Type,Whitespace,50,10.0,
+Error_Type,Unicode,75,15.0,
+Error_Type,Mixed,75,15.0,
+Split,Train,400,80.0,
+Split,Validation,50,10.0,
+Split,Test,50,10.0,
+Data_Type,Authentic,0,0.0,Authentic samples were not incorporated; see README.
+Data_Type,Synthetic,500,100.0,Authentic samples were not incorporated; see README.
+Source,Synthetic,500,100.0,All records are synthetic; none are presented as scraped social media posts.
